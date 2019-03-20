@@ -395,7 +395,7 @@ class mdp():
 ### #sélection du meilleur set de paramètre
 #listeDivergence = np.zeros((len(liste),1))
 liste = sys.argv[1:13]
-trials = 2
+trials = 100
 
 #for i in range(len(liste)):
 
